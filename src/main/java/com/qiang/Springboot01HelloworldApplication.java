@@ -3,7 +3,7 @@ package com.qiang;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//@SpringBootApplication：标注这个类是Springboot的应用：启动类下的所有资源被导入
+//@SpringBootApplication：标注这个类是Springboot的应用：启动类下的所有资源被导入  Gi提交
 @SpringBootApplication
 public class Springboot01HelloworldApplication {
 	//将Springboot应用启动
